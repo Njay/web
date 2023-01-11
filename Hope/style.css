@@ -1,0 +1,34 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.c-item{
+    height: 480px;
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    }
+html, body{
+    background: #FFFBC1;
+}
+.carousel-caption{
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    height: fit-content;
+}
+.center {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    position:absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#FFFBC1;
+    text-align: center;
+}
+.audio-container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
